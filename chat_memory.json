@@ -1,0 +1,12 @@
+{
+  "hola": "👋 ¡Hola! Soy Jenny, tu asistente virtual. ¿Cómo puedo ayudarte hoy?",
+  "precio": "💲 Nuestros precios dependen del producto, ¿qué equipo electrónico te interesa?",
+  "stock": "📦 Sí, tenemos stock disponible en varios productos. ¿Cuál buscas?",
+  "horario": "🕒 Nuestro horario es de lunes a viernes de 9:00 a 18:00.",
+  "ubicacion": "📍 Estamos en la calle Principal #123, Ciudad.",
+  "contacto": "📞 Puedes llamarnos al 591-70000000 o escribirnos aquí mismo por WhatsApp.",
+  "gracias": "🙏 Con gusto, para eso estoy. ¿Quieres que te ayude en algo más?",
+  "adios": "👋 ¡Hasta pronto! Gracias por escribirnos.",
+  "laptop": "💻 Tenemos laptops de distintas gamas, ¿quieres conocer las opciones?",
+  "celular": "📱 Contamos con celulares de varias marcas. ¿Tienes alguna en mente?"
+}
