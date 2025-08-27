@@ -1,3 +1,12 @@
-
+# Node.js dependencies
 node_modules/
+
+# Carpeta de memoria de tu bot
 chat_memory/
+
+# Archivos de entorno
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
